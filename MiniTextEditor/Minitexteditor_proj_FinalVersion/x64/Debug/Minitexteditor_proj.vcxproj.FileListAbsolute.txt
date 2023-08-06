@@ -1,0 +1,4 @@
+C:\Users\Mazen\source\repos\Minitexteditor_proj\x64\Debug\Minitexteditor_proj.exe
+C:\Users\Mazen\source\repos\Minitexteditor_proj\x64\Debug\Minitexteditor_proj.pdb
+C:\Users\Mazen\source\repos\Minitexteditor_projff_ver (4)\x64\Debug\Minitexteditor_proj.exe
+C:\Users\Mazen\source\repos\Minitexteditor_projff_ver (4)\x64\Debug\Minitexteditor_proj.pdb
